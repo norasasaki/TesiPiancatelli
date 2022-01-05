@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css?family=Charm');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+/* general*/
+body {
+	background-color:#fff7e6;
+}
+
+
+button {
+	background-color: transparent;
+	border: transparent;
+}
+
+button:hover{
+	cursor:pointer;
+}
+/* gioco*/
+#containerbase{
+	font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    background-color: rgba(255,255,255,0.33);
+    width: 83%;
+    border: solid 3px #ffefcc;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-bottom: 3%;
+	position:relative;
+}
+
+#scene{
+	width:90%;
+	margin-left:6%;
+	margin-top:2%;
+}
+.container {
+ text-align: center;
+}
+
+.choices {
+	margin:2%;
+	padding:1%;
+	background-color:#ceff99;
+	font-size: 90%;
+}
+.choices:hover{
+	text-decoration: underline;
+}
+#containerreset{
+	width: 83%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+	text-align: right;
+	
+}
+#resetS{
+	font-size:150%;
+}
+/* salvataggi*/
+
+#containersave{
+    color: black;
+    background-color: rgba(255,255,255,0.33);
+    width: 83%;
+    border: solid 3px #ffefcc;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-bottom: 3%;
+}
+.slotsave{
+	width:30%;
+	border-style: solid;
+	background-color:  #f2d9d9;
+	border-radius: 10px 10px 10px 10px;
+	border-width: thick;
+	border-color:  #f2d9d9;
+	margin-bottom: 1%;
+	margin-top:1%;
+	margin-left:38%;
+}
+
+.saving{
+	background-color:  #ecd9c6;
+	color: black;
+	text-align:center;
+    margin-right: 1%;
+	display: inline-block;
+	width: 68%;
+	font-size:120%;
+	word-break: break-word;
+	margin-right:5%;
+}
+
+.loadnew, .deletattual {
+	color:white;
+	font-size: 212%;
+	padding-right:3%;
+	display:inline-block;
+}
+
+.loadnew, .deletattual, .slotsave:hover{
+	cursor:pointer;
+}
+
+.loadnew:hover{
+	background-color:black;
+}
+
+@media only screen and (max-width: 1075px) {
+  .saving {
+    width:100%;
+  }
+  .loadnew {
+	padding-left:35%;
+}
+}
+
+@media only screen and (max-width: 489px) {
+  .saving {
+    width:100%;
+  }
+  .loadnew {
+	padding-left:23%;
+}
+}
+@media only screen and (max-width: 337px) {
+  .saving {
+    width:100%;
+  }
+  .loadnew {
+	padding-left:12%;
+}
+}
+@media only screen and (max-width: 285px) {
+  .saving {
+    width:100%;
+  }
+  .loadnew {
+	padding-left:0%;
+}
+}
+/* menù*/
+header {
+	text-align:center;
+	position: relative;
+}
+
+ul {
+  text-align:center;
+  list-style-type: none;
+  width: 85%;
+  padding-left:0%;
+  margin-left: 7.5%;
+  margin-right:7.5%;
+  overflow: hidden;
+  background-color:#E2C9C8;
+}
+li{
+	display: inline-block;
+}
+li a {
+  display: block;
+  color: Black;
+  font-size: 175%;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+/* obbiettivi*/
+.Types{
+	width:100%;
+	text-align: center;
+	font-size:150%;
+	clear: both;
+	margin: 1%;
+}
+.badges{
+	float:left;
+	margin-left:15px;
+	width:30%;
+	text-align:center;
+	font-size:100%;
+}
+.stamp{
+	width:82%;
+}
+
+.obbiettivis{
+	overflow:hidden;
+}
+
+#containerbasebadge{
+	font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    background-color: rgba(255,255,255,0.15);
+    width: 83%;
+    border: solid 3px #ffefcc;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-bottom: 3%;
+	position:relative;
+}
+
+.stampok{
+	width:82%;
+}
+.stampok:hover {
+	cursor:pointer;
+}
+
