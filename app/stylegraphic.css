@@ -217,3 +217,10 @@ li a:hover {
 	cursor:pointer;
 }
 
+#about{
+	width:70%;
+	margin-left:17%;
+	margin-top:2%;
+	margin-bottom:2%;
+	text-align:center;
+}

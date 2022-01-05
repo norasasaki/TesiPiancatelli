@@ -18,7 +18,7 @@
 					<li><a href="index.php">Gioco</a></li>
 					<li><a href="salvataggi.php">Salvataggi</a></li>
 					<li><a href="badges.php">Obbiettivi</a></li>
-					<li><a href="x.html">About</a></li>
+					<li><a href="about.html">About</a></li>
 				</ul>
 			</nav>
 		</header>
