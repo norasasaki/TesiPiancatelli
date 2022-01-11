@@ -5,7 +5,7 @@
 /* general*/
 body {
 	background-color:#fff7e6;
-	background-image: "/sfondo";
+	background-image: URL("sfondo.png");
 }
 
 
