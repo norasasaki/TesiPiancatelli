@@ -45,9 +45,9 @@ var parti = {
 					<div class=\"container\"><button name=\"button\" onClick=\"reply($(this))\" value=\"Sezione4\" type=\"button\" class=\"choices\">Continua</button></div>\
 				",
 		Sezione1b : " SEZIONE 1-b<br>\
-		        Pinocchio, quando si avvide da lontano del carabiniere che barricava tutta la strada, spalancò tutt’e due gli occhi e s'arrestò di scatto. Pinocchio alzò le mani d'innanzi al carabiniere, il quale lo afferrò per una spalla e  lo riconsegnò nelle proprie mani di Geppetto.<br>\
+		        Pinocchio, quando si avvide da lontano del carabiniere che barricava tutta la strada, spalancò tutt’e due gli occhi e s'arrestò di scatto. Pinocchio alzò le mani d'innanzi al carabiniere, il quale lo afferrò per una spalla e  lo riconsegnò nelle mani di Geppetto.<br>\
 				Il povero Geppetto, senza sua colpa, dovette piegare il capo per chiedere scusa. Vedendo Pinocchio finalmente fermo di fronte il carabiniere, fece fare lo stesso al  figliuolo che abbassò il capo come il babbo bofonchiando delle scuse.<br>\
-				- Qui però non bastano delle scuse – Fece il carabiniere - Qui ci vuole una multa. -<br>\
+				- Qui però non bastano delle scuse – fece il carabiniere - Qui ci vuole una multa. <br>\
 				A quel punto Geppetto, che altro non poteva fare, annuì e andò a presso al carabiniere.<br>\
 				- Pinocchio, tu va a casa e aspettami.<br>\
 				Vedendo il povero babbo così tristo e melanconico, tutto ripiegato e umile, Pinocchio ubbidì senza più fare capricci.\
@@ -95,12 +95,12 @@ var parti = {
 		",
 		Sezione4b : "SEZIONE 4-b<br>\
 			A queste ultime parole, Pinocchio decise di ignorare il Grillo-parlante; ma aveva una gran paura dei tuoni e dei lampi e così fu costretto ad ascoltare.<br>\
-			- Tu non vuoi ascoltare, Pinocchio.- disse sconsolato il Grillo tentennando il capo - Pensa al tuo povero babbo, adesso è sotto la pioggia per colpa tua. Il tuo buon babbo che ti ha fatto con tanto amore i capelli, poi gli occhi, il naso e poi le spalle, le braccia, le mani, le gambe e poi quei piedi con cui sei scappato di casa.<br>\
-			- Non ho certo chiesto io che mi facesse gli occhi, le braccia e i piedi.- rispose il burattino incrociando le braccia<br>\
+			- Tu non vuoi ascoltare, Pinocchio.- disse sconsolato il Grillo tentennando - Pensa al tuo povero babbo, adesso è sotto la pioggia per colpa tua. Il tuo buon babbo che ti ha fatto con tanto amore i capelli, poi gli occhi, il naso e poi le spalle, le braccia, le mani, le gambe e poi quei piedi con cui sei scappato di casa.<br>\
+			- Non ho certo chiesto io che mi facesse gli occhi, le braccia e i piedi.- rispose il burattino incrociando le braccia.<br>\
 			- Quindi è così che tratti l'amore del tuo buon babbo? Guai Pinocchio, che chi non tiene di conto dei sacrifici e l'amore altrui finisce presto solo, farai soffrire il tuo povero babbo, colui che non solo ti ha fatto ma che ti porterà da mangiare e ti darà tutto perché tu diventi un bravo bambino. Cosa pensi di fare senza Geppetto?<br>\
 			Pinocchio spaventato da quelle parole rimase in silenzio, perché la fame cresceva sempre ed era vero che in quella casa non c'era neanche un tozzo di pane. Senza il babbo, capì Pinocchio, non poteva fare molto ed era vero che Geppetto era finito in prigione per colpa sua.<br>\
 			Vedendo che il burattino era muto come un pesce e che non si sentiva affatto bene ad aver lasciato il povero Geppetto a prendersi la colpa, il Grillo-parlante soddisfatto sparì nell'ombra.<br>\
-			Un groviglio di pensieri ronzarono in testa a Pinocchio per tanto tempo, poi qualcuno bussò alla porta.<br>\
+			Un groviglio di pensieri ronzò in testa a Pinocchio per tanto tempo, poi qualcuno bussò alla porta.<br>\
 			– Chi è? – domandò Pinocchio.<br>\
 			– Sono io, – rispose una voce.<br>\
 			Quella voce era la voce di Geppetto<br>\
@@ -151,7 +151,7 @@ var parti = {
 		Sezione6b : "SEZIONE 6-b<br>\
 			Pinocchio avrebbe davvero voluto andare a sentire i pifferi, ma sapeva di non avere denari e quindi avrebbe dovuto arrangiarsi in qualche modo.<br>\
 			Bisognava prendere una risoluzione alla svelta: o a scuola, o a sentire i pifferi.<br>\
-			— Non posso far tardi - disse sospirando - Devo andare a scuola e i pifferi saranno per un'altra volta — così dicendo Pinocchio andò alla scuola comunale con l'abecedario sotto braccio.<br>\
+			— Non posso far tardi - disse sospirando - Devo andare a scuola e i pifferi saranno per un'altra volta — così dicendo Pinocchio andò alla scuola comunale con l'abbecedario sotto braccio.<br>\
 			Figuratevi quelle birbe di ragazzi, quando videro entrare nella loro scuola un burattino! Fu una risata, che non finiva più. Chi gli faceva uno scherzo, chi un altro: chi gli levava il berretto di mano: chi gli tirava il giubbettino di dietro; chi si provava a fargli coll’inchiostro due grandi baffi sotto il naso, e chi si attentava perfino a legargli dei fili ai piedi e alle mani, per farlo ballare.<br>\
 			Per un poco Pinocchio usò disinvoltura e tirò via; ma finalmente, sentendosi scappar la pazienza, si\
 			rivolse a quelli che più lo tafanavano e si pigliavano gioco di lui, e disse loro a muso duro:<br>\
@@ -241,14 +241,14 @@ var parti = {
 			<button name=\"button\" onClick=\"reply($(this))\" value=\"Sezione8b\" type=\"button\" class=\"choices\">Stai in silenzio</button></div>\
 		",
 		Sezione8b : "SEZIONE 8-b<br>\
-			Impauriti da quello che il burattinaio avrebbe potuto farli nessuno parlò più, neanche Pinocchio che era appena scampato alla morte e proprio non voleva tentare la fortuna nuovamente e il pensiero di  lasciare il babbo dopo aver anche venduto l'abecedario proprio non gli andava giù. Sospirò e tentennò il capo.\
+			Impauriti da quello che il burattinaio avrebbe potuto fare loro nessuno parlò più, neanche Pinocchio che era appena scampato alla morte e proprio non voleva tentare la fortuna nuovamente e il pensiero di  lasciare il babbo dopo aver anche venduto l'abbecedario proprio non gli andava giù. Sospirò e tentennò il capo.\
 			Alla vista di quello spettacolo straziante, Pinocchio prese a piangere insieme agli altri suoi fratelli. <br> \
 			I due giandarmi di legno legarono il povero Arlecchino come fosse un salame, lo ondeggiarono una, due volte prima di lanciarlo sotto lo spiede.\
 			Tutti i burattini piansero più forte alla vista di Arlecchino che bruciava e anneriva fino a scomparire tra le fiamme. E anche Pinocchio piangeva perché Arlecchino l'aveva salvato.<br>\
 			Mentre il montone si arrostiva bene, Mangiafuoco disse con il suo vocione:<br>\
 			- Ebbene Pinocchio, adesso puoi andare dal tuo povero babbo e ricordati sempre di ubbidirgli.<br>\
 			Pinocchio ancora in lacrime obbedì e a testa bassa ritornò a casa.<br>\
-			Geppetto vedendo il ragazzo sempre allegrissimo così tristo e senza più l'abecedario chiese a Pinocchio cosa fosse successo e questo ancora con le lagrime agli occhi raccontò la vicenda del burattinaio Mangiafuoco e del povero Arlecchino.<br>\
+			Geppetto vedendo il ragazzo sempre allegrissimo così tristo e senza più l'abbecedario chiese a Pinocchio cosa fosse successo e questo ancora con le lagrime agli occhi raccontò la vicenda del burattinaio Mangiafuoco e del povero Arlecchino.<br>\
 			- Oh babbo che stupido sono stato! Non avrei dovuto seguire i pifferi, ma andare a scuola come promesso. Giuro che mai più andrò a vedere i burattini e mai più salterò la scuola.<br>\
 			<div class=\"container\"><button name=\"button\" onClick=\"reply($(this))\" value=\"FinaleNegativo1\" type=\"button\" class=\"choices\">Continua</button></div>\
 		",
@@ -321,17 +321,17 @@ var parti = {
 			Pinocchio ci pensò su. Con più zecchini d'oro avrebbe potuto comprare una gran bella casacca al babbo, anche più bella di quella che poteva comprare con cinque monete d'oro, ma sicuramente il suo babbo era anche in pena per lui.\
 			Allora, pensando a questo e agli ultimi giorni, rispose: <br>\
 			— No, non ci voglio venire. Oramai sono vicino a casa, e voglio andarmene a casa, dove c’è il mio\
-			babbo che m’aspetta. Chi lo sa, povero vecchio, quanto ha sospirato ieri, a non vedermi tornare. Pur troppo io sono stato un figliolo cattivo, e il Grillo-parlante aveva ragione quando diceva: «i ragazzi disobbedienti non possono aver bene in questo mondo». E io l’ho provato a mie spese, perché mi sono capitate dimolte disgrazie, e anche ieri sera in casa di Mangiafoco, ho corso pericolo... Brrr! mi viene i bordoni soltanto a pensarci!—<br>\
+			babbo che m’aspetta. Chi lo sa, povero vecchio, quanto ha sospirato ieri, a non vedermi tornare. Purtroppo io sono stato un figliolo cattivo, e il Grillo-parlante aveva ragione quando diceva: «i ragazzi disobbedienti non possono aver bene in questo mondo». E io l’ho provato a mie spese, perché mi sono capitate dimolte disgrazie, e anche ieri sera in casa di Mangiafoco, ho corso pericolo... Brrr! mi viene i bordoni soltanto a pensarci!—<br>\
 			— Tanto peggio per te! — ripeté il Gatto.<br>\
 			— Pensaci bene, Pinocchio, perché tu dai un calcio alla fortuna.<br>\
 			— Alla fortuna! — ripeté il Gatto.<br> \
-			— Non ho avuto fortuna fino a oggi, anzi — rispose il burattino quasi offeso; —solo disgrazie mi son successe quando non ho ubbidito.—<br>\
+			— Non ho avuto fortuna fino a oggi, anzi — rispose il burattino quasi offeso — solo disgrazie mi son successe quando non ho ubbidito.—<br>\
 			Il Gatto e la Volpe avevano capito che Pinocchio non aveva più intenzione di ascoltarli. Tant'è che il burattino aveva incrociato le braccia dicendo:<br>\
 			— Io torno a casa<br>\
 			Ma il Gatto e la Volpe non potevano farsi scappare questa occasione.<br>\
 			— Se non vuoi darci le monete ce le prenderemo da noi<br>\
 			E con questo i due furfanti tirarono fuori i coltelli. Pinocchio subito provò a scappare, ma non aveva ancora fatto il primo passo che la volpe lo afferrò. Pinocchio si dibatté e scalciò. Il Gatto provò a tagliargli una mano per rubargli le monete.Ma il burattino per sua fortuna era fatto d’un legno durissimo, motivo per cui le lame, spezzandosi, andarono in mille schegge e i furfanti rimasero col manico dei coltelli in mano, a guardarsi in faccia.\
-			Pinocchio incoraggito da questa prima vittoria, si liberò a forza dalle unghie dei furfanti, e cominciò a fuggire per la strada dritto verso il paese.<br>\
+			Pinocchio incoraggiato da questa prima vittoria, si liberò a forza dalle unghie dei furfanti, e cominciò a fuggire per la strada dritto verso il paese.<br>\
 			— Gli assassini! Gli assassini! — cominciò a gridare Pinocchio alle porte del paese.<br>\
 			Subito i curiosi si voltarono a vedere cosa stava succedendo. Qualcuno andò a chiamare un carabiniere e allora furono il Gatto e la Volpe a scappare via, ma non ci riuscirono e furono portati subito in prigione.\
 			<div class=\"container\"><button name=\"button\" onClick=\"reply($(this))\" value=\"FinalePositivo1\" type=\"button\" class=\"choices\">Continua</button></div>\
@@ -367,9 +367,9 @@ var parti = {
 		Sezione12b : "	SEZIONE 12-b<br>\
 			Pinocchio, che già una volta non aveva dato retta al Grillo-parlante, decise di ascoltare l'ombra.\
 			Anche se dispiaciuto di non poter portare al suo babbo duemila zecchini pensò dentro di sé:<br>\
-			— Il Grillaccio ha avuto sempre ragione e il mio povero babbo. Povero babbino ormai non mi vede da giorni chi sa come sarà in pensiero. —<br>\
-			A tastoni come era partito, ritornò all'osteria. Ma ormai aveva pagato l'oste che era amico del Gatto e della Volpe, e Pinocchio non voleva spendere altri dei suoi preziosi zecchini così zitto zitto entrò nella stalla.\
-			Raggruppata della paia fresca il burattino si addormentò lì, al caldo grazie ai cavalli addormentati lì.<br>\
+			— Il Grillaccio ha avuto sempre ragione. E povero il mio babbino! Povero babbino ormai non mi vede da giorni chi sa come sarà in pensiero. —<br>\
+			A tastoni come era partito, ritornò all'osteria. Ma ormai aveva pagato l'oste che era amico del Gatto e della Volpe, e Pinocchio non voleva spendere altri dei suoi preziosi zecchini, così zitto zitto entrò nella stalla.\
+			Raggruppata della paglia fresca il burattino si addormentò lì, al caldo grazie ai cavalli addormentati lì.<br>\
 			La mattina seguente venne svegliato da un gran vociare. Pinocchio si stropicciò gli occhi e si affacciò dalla stalla.\
 			Il Gatto e la Volpe gridavano contro l'oste. E il Gatto aveva gli occhi ben aperti e la Volpe non zoppicava più.<br>\
 			- Allora il Grillo aveva ragione! - Pensò Pinocchio.<br>\
@@ -414,12 +414,12 @@ var parti = {
 		",
 		Sezione13b2 : "	SEZIONE 13-b2 <br>\
 			Non sentendo nessuno Pinocchio pensò di tornar indietro a prendere i suoi zecchini. Zitto zitto fino al suo cespuglio. Ma il burattino non ci vedeva da qui a lì e dovette abbassarsi, tanto che il suo naso toccò il terreno per trovare le quattro monete.\
-			Si sentì afferrarsi per il collo, e le solite due vociacce che gli brontolarono minacciosamente:<br>\
+			Si sentì afferrare per il collo, e le solite due vociacce gli brontolarono minacciosamente:<br>\
 			— Ora non ci scappi più! —<br>\
 			Il burattino, vedendosi balenare la morte dinanzi agli occhi, fu preso da un tremito così forte, che nel tremare, gli sonavano le giunture delle sue gambe di legno.<br>\
-			— Dunque? — gli domandarono gli assassini — dove gli hai nascosti! So qui vero? —<br>\
+			— Dunque? — gli domandarono gli assassini — dove gli hai nascosti! Sono qui vero? —<br>\
 			— Ah! — esclamò il più alto — Eccole! — e indicò qualcosa che riluceva della luce lunare.<br>\
-			— Per averci fatto penare tanto te la faremo pagare — disse uno<br>\
+			— Per averci fatto penare tanto te la faremo pagare — disse uno.<br>\
 			— Pagare — ripeté l'altro.<br>\
 			— Ma come? —<br>\
 			E Pinocchio già piangeva e piangeva rimpiangendo di non aver ascoltato il Grillo. E piangeva perché non era tornato dal babbo e non l'aveva ascoltato ed adesso era in mano agli assassini. \
@@ -470,7 +470,7 @@ var parti = {
 			— Morta? e allora che cosa fai costì alla finestra?<br>\
 			— Aspetto la bara che venga a portarmi via. —<br>\
 			Appena detto così, la Bambina disparve, e la finestra si richiuse senza far rumore.\
-			Ma pinocchio era ancora spaurito che i due assassini lo stessero inseguendo. Allora Pinocchio riprese a correre fino ad arrivare davanti ad una grande pianta detta Quercia grande. Sentendo i passi degli assassini, il burattino salì sulla grossa pianta nascondendosi tra le foglie.<br>\
+			Ma Pinocchio era ancora spaurito che i due assassini lo stessero inseguendo. Allora Pinocchio riprese a correre fino ad arrivare davanti ad una grande pianta detta Quercia grande. Sentendo i passi degli assassini, il burattino salì sulla grossa pianta nascondendosi tra le foglie.<br>\
 			— Dove è andato?—<br>\
 			— Andato — ripeté l'altro.<br>\
 			I due assassini non trovando il burattino da nessuna parte tornarono sui loro passi.<br>\
@@ -479,7 +479,7 @@ var parti = {
 		",
 		Sezione16 : "SEZIONE 16<br>\
 			La bella Bambina dai capelli turchini fa raccogliere il burattino: lo mette a letto, e chiama tre medici per sapere se sia vivo o morto. <br>\
-			In quel mentre che il povero Pinocchio accasciato sulla Quercia grande, pareva oramai più morto che vivo, la bella Bambina dai capelli turchini si affacciò daccapo alla finestra, e impietositasi alla vista di quell’infelice che burattino, batté per tre volte le mani insieme, e fece tre piccoli colpi. \
+			In quel mentre che il povero Pinocchio accasciato sulla Quercia grande, pareva oramai più morto che vivo, la bella Bambina dai capelli turchini si affacciò daccapo alla finestra, e impietositasi alla vista di quell’infelice burattino, batté per tre volte le mani insieme, e fece tre piccoli colpi. \
 			— Che cosa comandate, mia graziosa Fata? — disse il Falco abbassando il becco in atto di riverenza.<br>\
 			— Vedi tu quel burattino penzoloni su ramo della Quercia grande?<br>\
 			— Lo vedo.<br>\
@@ -547,10 +547,10 @@ var parti = {
 			— Quattro monete — ripeté il Gatto<br>\
 			— Meglio di nessuna! — rispose Pinocchio <br>\
 			— Ben detto, Pinocchio — disse il Falco, facendo capolino da un ramo.<br>\
-			— E tu chi sei? — chiese la Volpe<br>\
-			— Sono il Falco mandato dalla Fata per dire a Pinocchio che il suo babbo lo aspetta sotto la Quercia grande<br>\
+			— E tu chi sei? — chiese la Volpe.<br>\
+			— Sono il Falco mandato dalla Fata per dire a Pinocchio che il suo babbo lo aspetta sotto la Quercia grande.<br>\
 			— Oh che belle notizia! Allora non posso proprio venire con voi — esclamò Pinocchio e si partì a corsa verso la grossa pianta.<br>\
-			Il Falco, che era amico del Merlo, prima di andarsene picchiò con il suo forte becco sul ramo che cadè proprio in testa al Gatto che rimase lì disteso, immobile come un pezzo di legno.\
+			Il Falco, che era amico del Merlo, prima di andarsene picchiò con il suo forte becco sul ramo che cadde proprio in testa al Gatto che rimase lì disteso, immobile come un pezzo di legno.\
 			Pinocchio corse così incontro a Geppetto, da quel giorno Pinocchio promise alla fata:<br>\
 			— Io studierò, io lavorerò, io farò tutto quello che mi dirai, perché, insomma, la vita del burattino mi è venuta a noia, e voglio diventare un ragazzo a tutti i costi. Me l’hai promesso, non è vero?<br>\
 			— Te l’ho promesso, e ora dipende da te. — <br>\
@@ -619,7 +619,7 @@ var parti = {
 			Pinocchio piangendo gridò ai pescatori ammassati sulla spiaggia.<br>\
 			- Vi prego aiutate il mio babbo!<br>\
 			- Ragazzo è impossibile salvare il tuo babbo, ormai è stato inghiottito dal mare. -<br><br>\
-			— Pover’omo — ripeterono allora i pescatori e e brontolando sottovoce una preghiera, iniziarono a tornare alle loro case.\
+			— Pover’omo — ripeterono allora i pescatori e brontolando sottovoce una preghiera, iniziarono a tornare alle loro case.\
 			In fretta la spiaggia fu deserta e solo il burattino rimase a guardare il mare, ma la barca di Geppetto era sparita nel mare e più si vedeva. Pinocchio disperato come era non faceva altro che piangere tanto che il legno del suo volto era inzuppo, ma nulla poteva fare il burattino di legno.\
 			Sulla spiaggia non c'era neanche una barca perché tutti i pescatori sapevano che con il mare nero a quel modo anche le barche sulla spiaggia sarebbero state portate via.<br>\
 			E così Pinocchio non poté salvare il suo povero babbo che tanto lo aveva cercato a causa della sua bighelloneria.\
@@ -688,7 +688,7 @@ var parti = {
 			<button name=\"button\" onClick=\"reply($(this))\" value=\"Sezione21b\" type=\"button\" class=\"choices\">Vai a scuola</button></div>\
 		",
 		Sezione21b : "SEZIONE 21-b<br>\
-			Pinocchio però decise di andare a scuola comunque perché gli tornò in mente la buona Fata, il vecchio Geppetto e gli insegnamenti del Grillo-parlante. E soprattutto gli tornò in mente la promessa fatta e quante volte già l'aveva infrante, allora decise che proprio no, doveva andare a scuola.\
+			Pinocchio però decise di andare a scuola comunque perché gli tornò in mente la buona Fata, il vecchio Geppetto e gli insegnamenti del Grillo-parlante. E soprattutto gli tornò in mente la promessa fatta e quante volte già l'aveva infranta, allora decise che proprio no, doveva andare a scuola.\
 			Dopo scuola tornò a casa dalla Fata a cui promise nuovamente di studiare e di non mettersi nei guai. Mantenne la parola per tutto il resto dell’anno.  Difatti agli esami delle vacanze, ebbe l’onore di essere il più bravo della scuola; e i suoi portamenti, in generale, furono giudicati così lodevoli e soddisfacenti, che la Fata, tutta contenta, gli disse:<br>\
 			— Domani finalmente il tuo desiderio sarà appagato!<br>\
 			— Cioè?<br>\
@@ -848,12 +848,12 @@ var parti = {
 			Metti giudizio per l’avvenire, e sarai felice. —<br>\
 			La voce della Fata si spense piano piano e la porta della camera si spalancò, ed entrarono dentro quattro conigli neri come l’inchiostro, che portavano sulle spalle una bara da morto. Pinocchio seguì il corteo di conigli fino al cimitero piangendo e dicendo:<br>\
 			— Oh Fatina mia! Oh Fatina mia!<br>\
-			Quella sera andò a letto e si addormentò subito stanco come era di piangere e che sorpresa fu quando svegliandosi, si accorse che non era più un burattino di legno: ma che era diventato, invece, un ragazzo come tutti gli altri.\
+			Quella sera andò a letto e si addormentò subito stanco come era di piangere e che sorpresa fu quando svegliandosi, si accorse che non era più un burattino di legno: era diventato, invece, un ragazzo come tutti gli altri.\
 		",
 		FinalePositivo1 : "FINALE POSITIVO 1<br>\
 					Pinocchio promise e giurò che avrebbe studiato, e che si sarebbe condotto sempre bene. E mantenne la parola per tutto il resto dell’anno.<br>\
-					Difatti agli esami delle vacanze, ebbe l’onore di essere il più bravo della scuola; e i suoi portamenti, in generale, furono giudicati così lodevoli e soddisfacenti.<br>\
-					E quando Geppetto si fece un vecchiettino tutto bianco, come se fosse di neve o di panna montata, e la sua salute si fece cagionevole Pinocchio assistette amorevolmente il suo babbino.Fra le altre cose, costruì da sé stesso un elegante carrettino per condurre a spasso il suo babbo nelle belle giornate, e per fargli prendere una boccata d’aria.<br>\
+					Difatti agli esami delle vacanze, ebbe l’onore di essere il più bravo della scuola; e i suoi portamenti, in generale, furono giudicati lodevoli e soddisfacenti.<br>\
+					E quando Geppetto si fece un vecchiettino tutto bianco, come se fosse di neve o di panna montata, e la sua salute si fece cagionevole Pinocchio assistette amorevolmente il suo babbino. Fra le altre cose, costruì da sé stesso un elegante carrettino per condurre a spasso il suo babbo nelle belle giornate, e per fargli prendere una boccata d’aria.<br>\
 					Pinocchio però rimase sempre un burattino di legno e di questo mai si lamentò perché aveva l'amore del suo babbino e di tutti i suoi amici per molto molto tempo.\
 		",
 		FinalePositivo2 : "	FINALE POSITIVO 2<br>\
@@ -862,17 +862,17 @@ var parti = {
 			— Dunque addio, e salutami tanto le scuole ginnasiali!... e anche quelle liceali, se le incontri per la\
 			strada.—<br>\
 			— Addio, Lucignolo: fa’ buon viaggio, divertiti e rammentati qualche volta degli amici. —<br>\
-			Il giorno dopo come promesso ci fu gran colazione in casa della Fata per festeggiare insieme il grande avvenimento: e la Fata aveva fatto preparare dugento tazze di caffè-e-latte e quattrocento panini imburrati di dentro e di fuori. E cantarono e ballarono e fecero gran festa.\
+			Il giorno dopo come promesso ci fu una gran colazione in casa della Fata per festeggiare insieme il grande avvenimento: e la Fata aveva fatto preparare dugento tazze di caffè-e-latte e quattrocento panini imburrati di dentro e di fuori. E cantarono e ballarono e fecero gran festa.\
 			Poi la Fata alzò le mani e fece zittire tutti.<br>\
 			— Bravo Pinocchio! In grazia del tuo buon cuore, io ti perdono tutte le monellerie che hai fatto fino a oggi e ti premio per essere stato un ragazzo perbene per così tanto tempo.—\
 			La Fata prese il volto di Pinocchio tra le sue mani e baciò la fronte del burattino.<br>\
-			— Guarda là. — disse la Fata e gli accennò un grosso burattino appoggiato a una seggiola, col capo girato sur una parte, con le braccia ciondoloni e con le gambe incrocicchiate e ripiegate a mezzo, da parere un miracolo se stava ritto.\
+			— Guarda là! — disse la Fata e gli accennò un grosso burattino appoggiato a una seggiola, col capo girato sur una parte, con le braccia ciondoloni e con le gambe incrocicchiate e ripiegate a mezzo, da parere un miracolo se stava ritto.\
 			Pinocchio si voltò a guardarlo; e dopo che l’ebbe guardato un poco, disse dentro di sé con grandissima compiacenza:<br>\
 			— Com’ero buffo, quand’ero un burattino! e come ora son contento di esser diventato un ragazzino perbene!... — \
 		",
 		FinaleNegativo1 : "	FINALE NEGATIVO 1<br>\
 			— Dunque, via! e chi più corre, è più bravo! — gridò Pinocchio.<br>\
-			Dato così il segnale della partenza a quel branco di modelli. Giunto che fu sulla spiaggia, Pinocchio dètte subito una grande occhiata sul mare; ma non vide nessun Pesce-cane.<br>\
+			Dato così il segnale della partenza a quel branco di modelli, tutti si messero a correre attraverso ai campi. Giunto che fu sulla spiaggia, Pinocchio dètte subito una grande occhiata sul mare; ma non vide nessun Pesce-cane.<br>\
 			Il mare era tutto liscio come un gran cristallo da specchio.<br>\
 			— O il Pesce-cane dov’è? — domandò, voltandosi ai compagni.<br>\
 			— Sarà andato a far colazione — rispose uno di loro, ridendo.<br>\
@@ -881,7 +881,7 @@ var parti = {
 			— E sarebbe?<br>\
 			— Quello di farti perdere la scuola e di farti venire con noi. Non ti vergogni a mostrarti tutti i giorni\
 			così preciso e così diligente alla lezione? Non ti vergogni a studiar tanto, come fai?<br>\
-			— Ci costringi a fare una brutta figura col maestro... — disse un altro<br>\
+			— Ci costringi a fare una brutta figura col maestro... — disse un altro.<br>\
 			— Ehi, Pinocchio! — gridò allora il più grande di quei ragazzi, andandogli sul viso. — Non venir qui a fare lo smargiasso: non venir qui a far tanto il galletto!... perché se tu non hai paura di noi, neanche noi abbiamo paura di te! Ricordati che tu sei solo e noi siamo sette.<br>\
 			E nel dir così gli appiccicò un pugno nel capo.<br>\
 			Ma fu, come si suol dire, botta e risposta; perché il burattino, com’era da aspettarselo, rispose subito\
@@ -906,12 +906,12 @@ var parti = {
 			Quando al mattino i carabinieri andarono per liberarlo quello che trovarono fu solo un grosso burattino di legno dagli occhi spenti.\
 		",
 		FinaleNegativo2 : "	FINALE NEGATIVO 2<br>\
-			Pinocchio rimasto da solo tornò mogio mogio a dove prima si trovava la casa bianca della fata. Arrivato lì il burattino si accorse di non saper dove tornare. <br>\
+			Pinocchio rimasto da solo tornò mogio mogio dove prima si trovava la casa bianca della fata. Arrivato lì il burattino si accorse di non saper dove tornare. <br>\
 			La fata era morta per il gran dolore che le aveva provocato.<br>\
 			Il babbo se l'era preso il mare perché non aveva bighellonato.<br>\
 			— Ah se solo avessi ascoltato il Grillo. — disse piangendo Pinocchio<br>\
 			Il burattino era ormai solo e non sapeva dove tornare ora che il sole stava sparendo. Allora Pinocchio si buttò a terra con un tonfo e come aveva dormito infreddolito sulla Quercia grande si addormentò contro la piccola pietra bianca.<br>\
-			Il giorno dopo il sole si alzò allegramente in cielo, i suoi raggi giocosi scaldarono il burattino di legno immobile contro la pietra di marmo. Ma il burattino Pinocchio non si mosse, se ne stava col capo girato sur una parte, con le braccia ciondoloni e con le gambe incrocicchiate e ripiegate a mezzo, da parere un miracolo se stava ritto. E così rimase il grosso burattino, che piano piano si coprì di erbetta, giorno dopo giorno, e tra la gente del paese presto tutti conobbero del burattino che zitto faceva la guardia come per ammenda alla tomba della povera fata.\
+			Il giorno dopo il sole si alzò allegramente in cielo, i suoi raggi giocosi scaldarono il burattino di legno immobile contro la pietra di marmo. Ma il burattino Pinocchio non si mosse, se ne stava col capo girato da una parte, con le braccia ciondoloni e con le gambe incrocicchiate e ripiegate a mezzo, da parere un miracolo se stava ritto. E così rimase il grosso burattino, che piano piano si coprì di erbetta, giorno dopo giorno, e tra la gente del paese presto tutti conobbero del burattino che zitto faceva la guardia come per ammenda alla tomba della povera fata.\
 		",
 		MorteQuercia : "MORTE QUERCIA<br>\
 			— Ho capito — disse allora uno di loro — bisogna impiccarlo! Impicchiamolo!<br>\
