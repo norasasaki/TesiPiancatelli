@@ -35,7 +35,7 @@ $(document).ready(function() {
 			data: {'name' : namesave},
 			success : function(risultato) {
 				if (risultato != "Nessuna partita salvata"){
-					window.location.href = '/Versione2.html';
+					window.location.href = '/index.php';
 				} else {
 					alert(risultato);
 				}
